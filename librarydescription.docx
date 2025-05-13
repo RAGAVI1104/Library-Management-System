@@ -1,0 +1,15 @@
+Library Management System
+This project manages a library's core operations: books, members, and borrowing/returning of books using pure SQL.
+
+🛠 Technologies:
+MySQL or PostgreSQL
+
+Can run in phpMyAdmin, MySQL Workbench, or any SQL client
+
+📁 Tables:
+Books – stores book info
+
+Members – stores library members
+
+Borrow – logs borrowing and return
+
